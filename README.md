@@ -35,7 +35,7 @@ This Model/WebApp predicts laptop price. Many times we have come across websites
 ## Deployment
 
 
-Web App Link(Heroku) -  [Visit here](https://www.house-price-demo.herokuapp.com/)
+Web App Link(Heroku) -  [Visit here](https://www.laptop-price-demo.herokuapp.com/)
 
 
 ## Screenshot
